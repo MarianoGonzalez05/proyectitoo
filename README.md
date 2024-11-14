@@ -13,19 +13,19 @@ Esta aplicación convierte archivos `.txt` a formato Excel de manera sencilla. P
 1. **Abre la aplicación**:
     - Al ejecutar el programa, se abrirá una ventana donde podrás seleccionar un archivo `.txt` para convertir.
 
-    ![Pantalla de inicio](assets/images/screen1.png)
+    ![Pantalla de inicio](assets/screen1.png)
 
 2. **Selecciona el archivo TXT**:
     - Se abrirá una ventana para que elijas el archivo `.txt` que deseas convertir.
 
-    ![Seleccionar archivo](assets/images/screen2.png)
+    ![Seleccionar archivo](assets/screen2.png)
 
 3. **Elige el delimitador**:
     - Antes de la conversión, selecciona el delimitador. Este es el carácter que se utilizará para separar las celdas en el archivo Excel (por ejemplo, coma, punto y coma, tabulación, etc.).
 
-    ![Elegir delimitador](assets/images/screen3.png)
+    ![Elegir delimitador](assets/screen3.png)
 
 4. **Conversión**:
     - Después de seleccionar el delimitador, la aplicación convertirá el archivo `.txt` a un archivo Excel. El archivo resultante se podrá guardar en el formato `.xlsx`.
 
-    ![Conversión realizada](assets/images/screen4.png)
+    ![Conversión realizada](assets/screen4.png)
