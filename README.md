@@ -7,7 +7,6 @@ Esta aplicación convierte archivos `.txt` a formato Excel de manera sencilla. P
 - Python 3.x
 - Dependencias: [pandas](https://pandas.pydata.org/), [openpyxl](https://openpyxl.readthedocs.io/)
 
-
 ## Uso
 
 1. **Abre la aplicación**:
